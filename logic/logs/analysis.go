@@ -1,12 +1,12 @@
 package logs
 
 import (
-	"time"
 	"log"
-	"strconv"
-	"strings"
 	"net/url"
 	"regexp"
+	"strconv"
+	"strings"
+	"time"
 )
 
 type Message struct {

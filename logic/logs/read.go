@@ -1,11 +1,11 @@
 package logs
 
 import (
-	"os"
+	"adumonitor/config"
 	"bufio"
 	"io"
+	"os"
 	"time"
-	"adumonitor/config"
 )
 
 const (

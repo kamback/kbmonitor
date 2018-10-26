@@ -1,8 +1,8 @@
 package nginxLog
 
 import (
-	"github.com/influxdata/influxdb/client/v2"
 	"adumonitor/config"
+	"github.com/influxdata/influxdb/client/v2"
 	"time"
 )
 

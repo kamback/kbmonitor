@@ -2,8 +2,8 @@
 package config
 
 import (
-	"github.com/BurntSushi/toml"
 	"fmt"
+	"github.com/BurntSushi/toml"
 )
 
 type config struct {
