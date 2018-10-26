@@ -1,0 +1,10 @@
+[logs]
+Path = "logs/access.log"
+
+[Ifdb]
+Addr = "http://localhost:8086"
+Username = ""
+Password = ""
+Database = "moniter"
+Precision = ""
+Table = ""
